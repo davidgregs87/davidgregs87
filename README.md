@@ -1,0 +1,9 @@
+- 👋 Hi, I’m David Gregs
+- 👀 my interest is about making the world see the future through TECH, LET'S MAKE IT HAPPEN TOGETHER!  
+- 🌱 I’m currently learning SOFTWARE ENGINEERING @alx_africa 
+- 💞️ I’m looking to collaborate on any project available
+- 📫 How to reach me 
+-  Linkedln
+-  linkedin.com/in/david-udoh-aaa555247
+-  Twitter
+-  https://twitter.com/gregs_david
